@@ -6,9 +6,10 @@
 ![JPA](https://img.shields.io/badge/JPA-%23007396.svg?logo=hibernate&logoColor=white)
 
 ## 📊 GitHub Stats :
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGApollo&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FGApollo&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGApollo&layout=compact&theme=dark)
+
 
