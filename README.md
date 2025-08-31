@@ -24,4 +24,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGApollo&layout=compact&theme=dark)
 
 
-![Visitor Count](https://profile-counter.glitch.me/<your-username>/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/<FGApollo>/count.svg)
