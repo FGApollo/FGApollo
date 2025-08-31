@@ -24,6 +24,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGApollo&layout=compact&theme=dark)
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FGApollo.Web_Base_JPA_PRJ301)
+
 
 
