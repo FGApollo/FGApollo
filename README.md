@@ -25,5 +25,5 @@
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FGApollo.Web_Base_JPA_PRJ301)
-![Visitors](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/FGApollo/Web_Base_JPA_PRJ301/main/visitors.json)
+
 
