@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=arduino&logoColor=white)
 
-## 📊 GitHub Stats :
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FGApollo&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=FGApollo&theme=dark)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FGApollo&layout=compact&theme=dark)
+## 📊 GitHub Stats : 
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGApollo&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FGApollo&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGApollo&layout=compact&theme=dark)
