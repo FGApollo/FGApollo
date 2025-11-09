@@ -13,5 +13,5 @@
 
 ## 📊 GitHub Stats : 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGApollo&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FGApollo&theme=dark) 
+![GitHub Streak](https://streak-stats.demolab.com?user=FGApollo&theme=dark&v=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGApollo&layout=compact&theme=dark)
